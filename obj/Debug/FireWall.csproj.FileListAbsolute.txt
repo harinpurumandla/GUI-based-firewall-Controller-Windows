@@ -1,0 +1,32 @@
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\bin\Debug\FireWall.exe.config
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\bin\Debug\FireWall.exe
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\bin\Debug\FireWall.pdb
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\Interop.FwCplLua.dll
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\Interop.NETCONLib.dll
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\FireWall.csproj.ResolveComReference.cache
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\FireWall.Form1.resources
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\FireWall.Properties.Resources.resources
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\FireWall.csproj.GenerateResource.Cache
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\FireWall.exe
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\FireWall.pdb
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\FireWall.csprojResolveAssemblyReference.cache
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\FireWall.update.resources
+C:\Users\harin\documents\visual studio 2013\Projects\FireWall\FireWall\obj\Debug\FireWall.test.resources
+C:\Users\harin\Desktop\FireWall\FireWall\bin\Debug\FireWall.exe.config
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\Interop.FwCplLua.dll
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\Interop.NETCONLib.dll
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\FireWall.csproj.ResolveComReference.cache
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\FireWall.exe
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\FireWall.pdb
+C:\Users\harin\Desktop\FireWall\FireWall\bin\Debug\FireWall.exe
+C:\Users\harin\Desktop\FireWall\FireWall\bin\Debug\FireWall.pdb
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\FireWall.csprojResolveAssemblyReference.cache
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\FireWall.Form1.resources
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\FireWall.Properties.Resources.resources
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\FireWall.test.resources
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\FireWall.update.resources
+C:\Users\harin\Desktop\FireWall\FireWall\obj\Debug\FireWall.csproj.GenerateResource.Cache
